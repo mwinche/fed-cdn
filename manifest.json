@@ -1,0 +1,8 @@
+{
+    "auth": [
+        "auth-ui-app/es/index.js"
+    ],
+    "i18n": [
+        "@workfront/react-i18n/dist/app.js"
+    ]
+}

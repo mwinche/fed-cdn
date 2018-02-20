@@ -1,0 +1,19 @@
+{
+  "name": "fed-cdn",
+  "version": "1.0.0",
+  "description": "A Sample CDN Distribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hi"
+  },
+  "author": "Matt Winchester",
+  "license": "MIT",
+  "dependencies": {
+    "@workfront/react-i18n": "5.2.4",
+    "auth-ui-app": "0.10.0",
+    "copy-concurrently": "1.0.5",
+    "event-stream": "3.3.4",
+    "md5": "2.2.1",
+    "mkdirp-promise": "5.0.1"
+  }
+}
